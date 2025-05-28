@@ -15,3 +15,8 @@ for repo in "${REPOS[@]}"; do
         echo "Repositório $REPO_NAME já existe."
     fi
 done
+
+#todo
+#> criar dockerfiles
+#> subir api autenticacao
+#> menu pra subir e derrubar as APIs
